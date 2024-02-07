@@ -1,0 +1,2 @@
+def stockpick(stocks)
+end
